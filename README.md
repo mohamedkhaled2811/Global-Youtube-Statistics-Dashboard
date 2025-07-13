@@ -2,8 +2,8 @@
 
 
 <p align="center">
-  <img src="Global-Youtube-Statistics/overview_page.png" alt="Overview" width="500"/>
-  <img src="Global-Youtube-Statistics/country_statistics_page.png" alt="Country Stats" width="500"/>
+  <img src="Global-Youtube-Statistics/overview_page.png" alt="Overview" width="400"/>
+  <img src="Global-Youtube-Statistics/country_statistics_page.png" alt="Country Stats" width="400"/>
 </p>
 
 
